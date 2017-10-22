@@ -38,7 +38,7 @@
 
 //#define ܫܒܝܠܐ		ptr		// "sheweela/sheveela" - path, road, trace
 
-#define ܟܠܟܠܬܐ	bool		// "kalkaltha" - switch, lever; from Akkadian "kalkaltu/kakkaltu"
+#define ܟܠܟܠܬܐ		bool		// "kalkaltha" - switch, lever; from Akkadian "kalkaltu/kakkaltu"
 #define ܫܪܪ		true		// "sharer" - to be firm, truthful
 #define ܫܩܪ		false		// "shaqer" - to be deceitful, to deceive
 
@@ -82,7 +82,7 @@
 
 // Miscellaneous
 #define ܡܕܪ		return		// "mader" - to return, resend
-//#define	ܬܚܡ		#define		// "tuhhama/tukhama" - limiting, defining
+//#define ܬܚܡ		#define		// "tuhhama/tukhama" - limiting, defining
 #define ܟܝܠܐ		sizeof		// "kayla" - measuring, size, amount, quantity - from the root "k-w-l" relating to measuring
 
 #define	ܝܗܒ		new		// "yaheb" - to give, allow, put (new or malloc essentially just gives available memory)
@@ -92,7 +92,7 @@
 #define ܚܫܚܐ		typedef		// "khshakha" - use, utility, employment, need, necessity, want, usefulness (redefinition)
 #define ܚܠܦ		inline		// "khlaf/HHlaf" - to change, exchange (inline functions are pretty much like #defines but for functions that are not macros)
 #define ܬܪܨ		explicit	// "tareSS" - to straighten, to correct, to stand, to direct - the purpose of using this root is that the "explicit" keyword forces you to do explicit (direct) conversions..
-#define ܦ݂ܘܪܬܪܢ	fortran		// "fortran" direct transliteration for inline fortran code.
+#define ܦ݂ܘܪܬܪܢ		fortran		// "fortran" direct transliteration for inline fortran code.
 
 // These are subject to change...
 #define ܫܘܢܝܐ		dynamic_cast	// "shunaya" - transitioning
@@ -116,8 +116,8 @@
 #define ܒܚܪ		try		// "baHHer / bakher" - to trial, to test
 #define ܒܨܪ		catch		// "baSSer" - to narrow
 #define ܪܫܡܐ		throw		// "rshama" - indicating, foreshadowing
-#define ٦١ܐܬܘܬܐ	char16_t	//
-#define ٢٣ܐܬܘܬܐ	char32_t
+#define ٦١ܐܬܘܬܐ		char16_t	//
+#define ٢٣ܐܬܘܬܐ		char32_t
 
 #define ٠		0		// leeta
 #define ١		1		// kh(d)a
